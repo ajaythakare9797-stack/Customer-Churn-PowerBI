@@ -23,6 +23,5 @@ This project analyzes customer churn behavior and retention trends using Power B
 - DAX
 - Excel / CSV Dataset
 
-## 📸 Dashboard Preview
-![Dashboard](dashboard_overview.png)
+iew.png)
 
